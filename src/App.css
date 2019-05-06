@@ -1,0 +1,41 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+section.container {
+	margin-bottom: 100px;
+}
+
+.tags .btn-default {
+	margin-right: 5px;
+}
+
+.btn-delete {
+	margin-top: 15px;
+}
+
+.well-alert {
+	background-color: #ffd3d3;
+	border: 1px solid #ff0303;
+}
+
+.upper-form {
+	margin-bottom: 30px;
+}
+
+header.avatar-container , header.avatar-container {
+	display: flex;
+	align-items: center;
+	width: 100%;
+}
+
+.avatar {
+	width: 200px;
+	height: 200px;
+	margin-right: 100px;
+	border-radius: 50%;
+}
