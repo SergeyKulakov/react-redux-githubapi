@@ -34,8 +34,8 @@ header.avatar-container , header.avatar-container {
 }
 
 .avatar {
-	width: 200px;
-	height: 200px;
+	width: 100px;
+	height: 100px;
 	margin-right: 100px;
 	border-radius: 50%;
 }
